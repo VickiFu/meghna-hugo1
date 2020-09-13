@@ -3,10 +3,12 @@ service:
   enable: true
   title: Our Solution
   service_item:
-  - name: WordPress Theme
+  - name: Voice Biometrics
     icon: ti-world
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: |-
+      Voice biometrics is the science of using a person’s voice as a uniquely identifying biological characteristic in order to authenticate them. Also referred to as voice verification or speaker recognition, voice biometrics enables fast, frictionless and highly secure access for a range of use cases from call center, mobile and online applications to chatbots, IoT devices and physical access.
+
+      Like other biometric modalities, voice identification offers significant security advantages over authentication methods that are based on something you know (like a password or answer to a “secret” question) or something you have (like your mobile phone). Voice biometrics also improves the customer experience by removing frustration associated cumbersome login processes and lost and stolen credentials.
   - name: Responsive Design
     icon: ti-layout
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
