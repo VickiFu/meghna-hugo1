@@ -52,11 +52,12 @@ URL = "https://themefisher.com/"
 name = "themefisher"
 weight = 8
 [params]
-author = "Themefisher"
+author = ""
 description = "Responsive Multipurpose Parallax HTML5 Template"
-google_analytics_id = ""
+google_analytics_id = "UA-163269135-1"
 logo = "images/logo.png"
-post_share = true
+post_share = false
+social = []
 [params.map]
 enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
@@ -90,21 +91,3 @@ link = "plugins/google-map/map.js"
 [params.preloader]
 enable = true
 preloader = "images/logo.png"
-[[params.social]]
-icon = "ti-facebook"
-link = "#"
-[[params.social]]
-icon = "ti-twitter-alt"
-link = "#"
-[[params.social]]
-icon = "ti-youtube"
-link = "#"
-[[params.social]]
-icon = "ti-linkedin"
-link = "#"
-[[params.social]]
-icon = "ti-dribbble"
-link = "#"
-[[params.social]]
-icon = "ti-pinterest"
-link = "#"
