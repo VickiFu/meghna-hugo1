@@ -9,23 +9,21 @@ service:
       Voice biometrics is the science of using a person’s voice as a uniquely identifying biological characteristic in order to authenticate them. Also referred to as voice verification or speaker recognition, voice biometrics enables fast, frictionless and highly secure access for a range of use cases from call center, mobile and online applications to chatbots, IoT devices and physical access.
 
       Like other biometric modalities, voice identification offers significant security advantages over authentication methods that are based on something you know (like a password or answer to a “secret” question) or something you have (like your mobile phone). Voice biometrics also improves the customer experience by removing frustration associated cumbersome login processes and lost and stolen credentials.
-  - name: Responsive Design
+  - name: Text Dependent Voice Verification
     icon: ti-layout
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: Text Dependent biometrics depend on the text the person is speaking.
+      This text is often referred to as a “voice passphrase.” The typical scenario
+      for Text Dependent is a mobile or web login, a step-up authentication on mobile
+      or web, or verifying identity through IVR authentication. Although Text Dependent
+      is most commonly used with a passphrase that consists of three or four words
+      that is about 1.5 seconds long, you can also use randomized numbers. User enrollment
+      is active, meaning that the person must knowingly perform the enrollment and
+      speak the required phrase.
   - name: Media &amp; Advertisement
     icon: ti-blackboard
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
       facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
   - name: Graphic Design
     icon: ti-palette
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-  - name: Apps Development
-    icon: ti-package
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-  - name: Networking
-    icon: ti-pulse
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
       facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
